@@ -15,7 +15,7 @@
     "settings": {
       "clients": [
         {
-          "id": "your id",
+          "id": "id",
           "alterId": 0
         }
       ]
